@@ -1,0 +1,43 @@
+
+body{
+    background-color: #e4f5ff;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    height: 100%;
+    flex-wrap: wrap;
+   padding-left: 2px;
+   
+}
+
+header{
+text-align: center;
+color: red;
+background-color: #96c7d5;
+font-size: auto;
+   background: -webkit-linear-gradient(#ff0000, #7686fd);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+
+   animation-duration: 12s !important; /*tiempo que dura la animación*/ 
+   animation-delay: 5s; /*tiempo de espera hasta que se produce la animación*/
+   /*  animation-iteration-count: infinite;*/
+}
+
+
+ footer{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+margin: auto;
+padding: 30;
+margin-top: 20px;
+padding-bottom: 30;
+border-radius: 2px;
+text-align: right;
+ }
+
+table{
+    margin: auto;
+}
